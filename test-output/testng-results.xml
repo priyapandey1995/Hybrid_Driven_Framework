@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-19T01:18:54 IST" name="Default suite" finished-at="2022-12-19T01:18:58 IST" duration-ms="4261">
+    <groups>
+    </groups>
+    <test started-at="2022-12-19T01:18:54 IST" name="Default test" finished-at="2022-12-19T01:18:58 IST" duration-ms="4261">
+      <class name="com.facebook.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@452e19ca]" started-at="2022-12-19T01:18:54 IST" name="setUp" finished-at="2022-12-19T01:18:57 IST" duration-ms="3836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@452e19ca]" started-at="2022-12-19T01:18:58 IST" name="loginTest" finished-at="2022-12-19T01:18:58 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="down()[pri:0, instance:com.facebook.qa.testcases.LoginPageTest@452e19ca]" started-at="2022-12-19T01:18:58 IST" name="down" finished-at="2022-12-19T01:18:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+      </class> <!-- com.facebook.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
